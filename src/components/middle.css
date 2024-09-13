@@ -1,0 +1,166 @@
+.maincontainer{
+    background: #F9F9FA;
+}
+.m1{
+    height: 255px;
+    display: flex;
+    flex-direction: column;
+    width: 1150px;
+    margin: auto;
+}
+.headl1{
+    justify-content: space-between;
+    display: flex;
+    height: fit-content;
+    width: 1115px;
+    margin: 15px;
+    height: 28px;
+}
+.arr{
+    font-size: 35px;
+}
+.arrows1{
+    display: flex;
+    gap: 10px;
+}
+.food1{
+    height: 180px;
+}
+.sliderc{
+    height: 180px;
+    background-color: #F9F9FA;
+    margin: 0 12px;
+    width: 140px;
+}
+
+.food1{
+    display:flex;
+   overflow: hidden;
+}
+.line{
+    height: 0;
+    border: 1px solid rgb(233, 233, 233);
+    width: 69.375rem;
+    margin: auto;
+    margin-top: 1.875rem;
+    margin-bottom: 1.875rem;
+}
+.restaurants{
+    height: 23.75rem;
+    width: 71.5625rem;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.rtop{
+    height: 3.75rem;
+    align-items: center;
+    display: flex;
+}
+
+.rcards{
+    height: 17.8125rem;
+    display: flex;
+}
+.resttitle{
+    margin:1rem;
+
+}
+
+.rcard{
+    width: 17.1875rem;
+    height: 17.8125rem;
+    margin: 0 1rem;
+}
+
+.rcardi{
+    height: 11.25rem;
+    overflow: hidden;
+    border-radius: 15px;
+    /* position: relative; */
+}
+
+.imagename{
+    /* position: absolute; */
+    height: 2rem;
+    /* top:9rem;
+    left:1.3rem; */
+    color: white;
+    font-weight: 900;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.029);
+
+}
+
+.img1{
+    width: 17.1825rem;
+}
+
+.carddesc{
+    margin-top: 1rem;
+    font-size: 17px;
+    margin-left: 1rem;
+}
+
+.cardname{
+    font-weight: 500;
+}
+.cardrate{
+    font-weight: 500;
+}
+.cardtype{
+    color: grey;
+    font-weight: 300;
+}
+.location{
+    color: grey;
+    font-weight: 300;
+}
+
+.restonline{
+    width: 69.375rem;
+    margin: auto;
+}
+.blank{
+    height: 1rem;
+}
+.buttons{
+    width: 69.375rem;
+    margin: auto;
+    display: flex;
+    gap: 0.625rem;
+}
+.buttonn{
+    height: 2.375rem;
+    width: 5rem;
+    background-color: white;
+    border-color: 1px solid grey;
+    border-radius: 20px;
+}
+.b2{
+    width: 5.625rem;
+}
+.b3{
+    width: 6.625rem;
+}
+.b4{
+    width: 7.5rem;
+}
+.b5{
+    width: 6.375rem;
+}
+.b6{
+    width: 5.125rem;
+}
+.b7{
+    width:4rem;
+}
+.b8{
+    width: 8.0625rem;
+}
+.b9{
+    width: 8.5625rem;
+}
+
+

@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    height: 16.875rem;
+    width: 15.9375rem;
+}
+.cardimage{
+    height: 10.5rem;
+    width: 15.9375rem;
+}
+
+.idesc{
+    height: 5.625rem;
+    margin-top: 0.625rem;
+    margin-left:0.625rem;
+}
+
+.cardname{
+    font-weight: 500;
+}
+.cardrate{
+    font-weight: 500;
+}
+.cardtype{
+    color: grey;
+    font-weight: 300;
+}
+.location{
+    color: grey;
+    font-weight: 300;
+}
+
+.icard{
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: inset 10px 11px 8px -10px #000,;
+}
+
+
+.imagename{
+    position: absolute;
+    height: 2rem;
+    top:8.5rem;
+    left:0.7rem;
+    color: white;
+    font-weight: 900;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.029);
+    
+
+}

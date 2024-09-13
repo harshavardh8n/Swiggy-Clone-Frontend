@@ -1,0 +1,90 @@
+*{
+margin:0;
+padding:0;
+}
+
+#Navbar{
+    height: 80px;
+    width: 100vwpx;
+    max-width: 100vw;
+    margin: auto; 
+}
+.centernav{
+    display: flex;
+    width: 1200PX;
+    height: 80px;
+    margin:auto;
+    align-items: center;
+}
+#logo{
+    height: 50px;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+.logospace{
+    display: flex;
+    width: 135px;
+    height: 80px;
+}
+.other{
+    display: flex;
+    width: 60px;
+    height: 30px;
+    margin-top: 25px;
+    align-items: center;
+}
+#other1{
+    margin:5px 0px;
+    font-weight: 700;
+}
+#v{
+    color: #FC8019;
+    font-weight: 700;
+}
+.searchbox{
+    margin-left: 477px;
+    width: 78px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    font-weight: 500;
+    cursor: pointer;
+
+}
+.navbox:hover{
+    color: orange;
+}
+.offerbox{
+        margin-left: 60px;
+        width: 78px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .Helpbox{
+        margin-left: 60px;
+        width: 65px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .signinbox{
+        margin-left: 60px;
+        width: 76px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .blacko{
+        background-color: black;
+        height: 100vh;
+        width: 30vw;
+        position: absolute;
+        
+    }
+    

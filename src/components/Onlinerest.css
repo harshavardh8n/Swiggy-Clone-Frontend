@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.ocard{
+    width: 71.5625rem;
+    margin: auto;
+}
+.ocardtop{
+    height: 2rem;
+}
+
+.ocardmid{
+height: 18.9375rem;
+margin-left: 1rem;
+}
+
+.ocardflex{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
